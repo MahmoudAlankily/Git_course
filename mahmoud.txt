@@ -1,0 +1,25 @@
+Java technology is both a programming language and a platform.
+Java - As a Programming Language
+
+The Java programming language is a high-level, object-oriented and general-purpose computer programming language.
+Java is similar to C++, but simplified to eliminate language features that cause common programming errors.
+You can use Java to write computer applications that play games, store data or do any of the thousands of other things computer software can do.
+ It is intended to let application developers "write once, run anywhere" (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
+Java - As a Computing Platform
+
+A platform is the hardware or software environment in which a program runs. Some of the most popular platforms are Microsoft Windows, Linux, Solaris OS, and Mac OS.
+Since Java has its own runtime environment (JRE) and API, it is called a platform.
+There are lots of applications and websites that will not work unless you have Java installed, and more are created every day.
+From laptops to datacenters, game consoles to scientific supercomputers, cell phones to the Internet, Java is everywhere!
+Where is Java used?
+
+According to Sun, 3 billion devices run java. There are many devices where java is currently used. Some of them are as follows:
+
+Desktop Applications such as acrobat reader, media player, antivirus etc.
+Web Applications such as irctc.co.in, javatpoint.com etc.
+Enterprise Applications such as banking applications.
+Mobile
+Embedded System
+Smart Card
+Robotics
+Games etc.
